@@ -11,6 +11,6 @@ stuff stuff stuff. [IRIS-HEP](https://iris-hep.org/). [QuarkNet](https://quarkne
 ### How to navigate this site
 
 ### links
-- [Who we are]()
+- [Who we are](WhoWeAre.md)
 
 
